@@ -11,10 +11,10 @@ cliente.endereco = {
     numero: 1337,
     apartamento: true,
     complemento: "ap 934",
-}
+};
 
 // É possível acessar o objeto dentro do e para acessar o valor só fazer `cliente.endereco.rua`
-console.log(cliente.endereco)
+console.log(cliente.endereco);
 
 // Também é possível utilizando os colchetes
 // console.log(cliente["endereco"])
