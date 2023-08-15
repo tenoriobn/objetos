@@ -1,3 +1,5 @@
+// É possível criar uma chave que terá como valor uma array, como no caso de dois telefones para uma chave:
+
 const cliente = {
     nome: "Joao",
     idade: 24,
